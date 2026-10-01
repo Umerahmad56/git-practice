@@ -1,2 +1,1 @@
-first file to  push to github
-changign file1 to check branching concept
+file1 updated
