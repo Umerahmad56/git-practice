@@ -1,2 +1,4 @@
 first file to  push to github
 changign file1 to check branching concept
+changing more to check merge conflit
+changing file1 to check merge conflict
