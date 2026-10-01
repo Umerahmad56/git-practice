@@ -1,1 +1,2 @@
 file to move file from master  to dev3
+update file during stashing stage
